@@ -1,0 +1,7 @@
+  =>  Template Name    : FreeFolio - Freelancer Portfolio Template
+
+  =>  Template Link    : https://htmlcodex.com/freelancer-portfolio-template
+
+  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+   
+   Hosted Link         : https://ethulsr.github.io/personaltutorial/
